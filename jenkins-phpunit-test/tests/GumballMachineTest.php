@@ -1,6 +1,6 @@
 <?php
 use PHPUnit\Framework\TestCase;
-require 'jenkins-phpunit-test/GumballMachine.php';
+require_once("jenkins-phpunit-test/GumballMachine.php");
 
 class GumballMachineTest extends TestCase {
 
